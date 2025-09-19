@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Información del estudiante
 Alejandro Ramírez Zepeda \[22211765]; L22211765@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
